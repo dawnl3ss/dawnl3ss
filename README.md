@@ -1,5 +1,5 @@
 <!-- Header -->
-# Hi there, I'm Amanara (4m4sec) ! 👋
+# Hi there, I'm Amanara ! 👋
 17-year-old web-developer | cybersecurity enthusiast | daydreamer
 
 <!-- Badge -->
