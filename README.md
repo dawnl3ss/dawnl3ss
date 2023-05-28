@@ -29,7 +29,7 @@ Wannabe redteamer.
 ## Featured Projects
 - 💻 [Hardware-Hub](http://hardware-hub.fr): French discord server based on mutual assistance and sharing of computer knowledge.
 - 🔓 [ARS-Encrypt](https://github.com/4m4Sec/ARS-Encrypt): Modified caesar's-cipher-based encrypt system written in C++.
-- 📁 [Project 3](https://github.com/4m4Sec/project3): Description of project 3.
+- 📁 [Kharon](https://github.com/4m4Sec/Kharon): Automated web-app ctf scanner which perform basic tasks of web-app pentesting.
 
 <!-- Footer -->
 Thank you for visiting my profile! 
