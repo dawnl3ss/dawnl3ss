@@ -6,7 +6,8 @@
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Amanara.png)
 
 <!-- Introduction -->
-Just a passionate web-developer and cybersecurity enthusiast following his dreams. wannabe redteamer.
+Just a passionate web-developer and cybersecurity enthusiast following his dreams.  
+Wannabe redteamer.
 
 <!-- Skills -->
 ## Skills
