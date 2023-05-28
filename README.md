@@ -26,9 +26,9 @@ Just a passionate web-developer and cybersecurity enthusiast following his dream
 
 <!-- Projects -->
 ## Featured Projects
-- 🚀 [Project 1](https://github.com/4m4Sec/project1): Description of project 1.
-- 🌟 [Project 2](https://github.com/4m4Sec/project2): Description of project 2.
+- 💻 [Hardware-Hub](http://hardware-hub.fr): French discord server based on mutual assistance and sharing of computer knowledge.
+- 🔓 [ARS-Encrypt](https://github.com/4m4Sec/ARS-Encrypt): Modified caesar's-cipher-based encrypt system written in C++.
 - 📁 [Project 3](https://github.com/4m4Sec/project3): Description of project 3.
 
 <!-- Footer -->
-Thank you for visiting my profile! Let's connect and collaborate on exciting cybersecurity and web development projects.
+Thank you for visiting my profile! 
