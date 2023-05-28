@@ -6,15 +6,14 @@
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Amanara.png)
 
 <!-- Introduction -->
-Welcome to my GitHub profile! I'm 4m4Sec, a passionate web developer and cybersecurity enthusiast with a strong focus on becoming a Red Teamer. I thrive on tackling complex challenges and securing digital landscapes.
+Just a passionate web-developer and cybersecurity enthusiast following his dreams. wannabe redteamer.
 
 <!-- Skills -->
 ## Skills
-- Web Development: HTML5, CSS3, JavaScript
-- Cybersecurity: Penetration Testing, Ethical Hacking, Secure Coding
-- Tools: Burp Suite, Wireshark, Metasploit
+- Web Development: HTML, CSS, Javascript, PHP, 
+- Cybersecurity: Penetration Testing, Ethical Hacking, Secure Coding, OSINT
 - Platforms: TryHackMe, Hack The Box
-- Learning: Constantly expanding my knowledge in cybersecurity and web development
+- Learning: Constantly expanding my knowledge in cybersecurity and web development, even though i can be busy sometimes
 
 <!-- Contact Me -->
 ## Get in Touch
