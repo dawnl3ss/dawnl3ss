@@ -1,6 +1,6 @@
 <!-- Header -->
-# Hi there, I'm 4m4Sec! 👋
-17-year-old Web Developer | Cybersecurity Enthusiast
+# Hi there, I'm Amanara (4m4sec) ! 👋
+17-year-old web-developer | cybersecurity enthusiast | daydreamer
 
 <!-- Badge -->
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Amanara.png)
