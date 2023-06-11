@@ -3,7 +3,7 @@
 17-year-old web-developer | cybersecurity enthusiast | daydreamer.
 
 <!-- Badge -->
-<a href="https://tryhackme.com/p/Amanara"> ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Amanara.png) </a>
+<a href="https://tryhackme.com/p/Amanara"> ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Amanara.png2) </a>
 
 <!-- Introduction -->
 Just a passionate web-developer and cybersecurity enthusiast following his dreams.  
