@@ -11,7 +11,7 @@ Wannabe redteamer.
 
 <!-- Skills -->
 ## Skills
-- Web Development : HTML, CSS, Javascript, PHP & SQL.
+- Web Development : HTML, CSS, Javascript, PHP, SQL, Ruby & more...
 - Cybersecurity : Web-Application Security, System Security, OSINT. 
 - Platforms : TryHackMe, HackTheBox, RootMe.
 - Learning : Constantly expanding my knowledge in cybersecurity and web development, even though i can be busy sometimes.
