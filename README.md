@@ -4,6 +4,7 @@
 
 <!-- Badge -->
 <a href="https://tryhackme.com/p/Amanara"> ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Amanara.png) </a>
+<a href="https://app.hackthebox.com/profile/1321357"> ![HackTheBox Badge](hackthebox.png) </a>
 
 <!-- Introduction -->
 Just a passionate web-developer and cybersecurity enthusiast following his dreams.  
