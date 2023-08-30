@@ -19,7 +19,7 @@ Wannabe redteamer.
 
 <!-- Contact Me -->
 ## Get in Touch
-- 🔰 [My website](https://4m4sec.me/)
+- 🔰 [My website](https://4m4sec.github.io/)
 - ✉ 4m4sec@gmail.com
 - 💎 [Twitter](https://twitter.com/4m4Sec)
 
