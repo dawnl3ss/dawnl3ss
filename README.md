@@ -1,6 +1,6 @@
 <!-- Header -->
 # Hi there, I'm Amanara ! 👋
-17-year-old web-developer | cybersecurity enthusiast | daydreamer.
+18-year-old web-developer | cybersecurity enthusiast | daydreamer.
 
 <!-- Badge -->
 <a href="https://tryhackme.com/p/Amanara"> ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Amanara.png) </a>
