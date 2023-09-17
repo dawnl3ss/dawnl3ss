@@ -1,5 +1,5 @@
 <!-- Header -->
-# Up on a cloud, watching world collapsing...
+# Up on a cloud, watching the world collapsing...
 18-year-old web-developer | cybersecurity enthusiast | daydreamer.
 
 <!-- Badge -->
