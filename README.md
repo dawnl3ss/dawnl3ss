@@ -8,6 +8,7 @@
 
 <!-- Introduction -->
 Just a passionate web-developer and cybersecurity enthusiast following his dreams.  
+EPITA student.
 Wannabe pentester && redteamer.
 
 <!-- Skills -->
