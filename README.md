@@ -1,5 +1,5 @@
 <!-- Header -->
-# Hi there, I'm Amanara ! 👋
+# Up on a cloud, watching world collapsing...
 18-year-old web-developer | cybersecurity enthusiast | daydreamer.
 
 <!-- Badge -->
@@ -8,18 +8,18 @@
 
 <!-- Introduction -->
 Just a passionate web-developer and cybersecurity enthusiast following his dreams.  
-Wannabe redteamer.
+Wannabe pentester && redteamer.
 
 <!-- Skills -->
 ## Skills
 - Web Development : HTML, CSS, Javascript, PHP, SQL, Ruby & more...
-- Cybersecurity : Web-Application Security, System Security, OSINT. 
+- Cybersecurity : Web-Application Security, System Security, OSINT.
 - Platforms : TryHackMe, HackTheBox, RootMe.
 - Learning : Constantly expanding my knowledge in cybersecurity and web development, even though i can be busy sometimes.
 
 <!-- Contact Me -->
 ## Get in Touch
-- 🔰 [My website](https://4m4sec.github.io/)
+- 🔰 [My website](https://dawnl3ss.github.io/)
 - ✉ 4m4sec@gmail.com
 - 💎 [Twitter](https://twitter.com/4m4Sec)
 
