@@ -32,7 +32,7 @@ Wannabe pentester && redteamer.
 - 🔓 [ARS-Encrypt](https://github.com/dawnl3ss/ARS-Encrypt) : Modified caesar's-cipher-based encrypt system written in C++.
 - 💀 [Kharon](https://github.com/dawnl3ss/Kharon) : Automated web-app ctf scanner which perform basic tasks of web-app pentesting.
 - 🔎 [Theia](https://github.com/dawnl3ss/Theia) : IP address lookup OSINT tool for linux.
-- 🔎 [Selene](https://github.com/dawnl3ss/Selene) : database dumper written in Python3, usefull during pentests and CTFs.
+- 📂 [Selene](https://github.com/dawnl3ss/Selene) : database dumper written in Python3, usefull during pentests and CTFs.
 
 <!-- Footer -->
 Thank you for visiting my profile ! 
