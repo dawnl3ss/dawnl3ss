@@ -20,7 +20,7 @@ Wannabe pentester && redteamer.
 <!-- Contact Me -->
 ## Get in Touch
 - 🔰 [dawnl3ss.me](http://dawnl3ss.me/)
-- ✉ 4m4sec@gmail.com
+- ✉ <a href="mailto:dawnl3ss@gmail.com"> dawnl3ss@gmail.com </a>
 - 💎 [Twitter](https://twitter.com/4m4Sec)
 
 <!-- GitHub Stats -->
