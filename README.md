@@ -4,7 +4,7 @@
 
 <!-- Badge -->
 <a href="https://tryhackme.com/p/dawnl3ss"> ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/dawnl3ss.png) </a>
-
+<a href="https://app.hackthebox.com/profile/1321357"><img src="https://www.hackthebox.com/badge/image/1321357" width="249" height="56"></a>
 
 <!-- Introduction -->
 Just a passionate web-developer and cybersecurity enthusiast following his dreams.  
