@@ -1,7 +1,7 @@
 <!-- Header -->
 ---
 
-### <p align="center"> ☁️ - Up on a cloud, watching the world collapsing... - ☁️ </p>
+### <p align="center"> ☁️ - up on a cloud, watching the world collapsing - ☁️ </p>
 
 ---
 
