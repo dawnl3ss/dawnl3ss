@@ -42,4 +42,4 @@
 
 # <h3> Github Stats </a>
 <!-- GitHub Stats -->
-![4m4Sec's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dawnl3ss&show_icons=true&count_private=true&theme=dark)
+![Dawnl3ss's GitHub stats](https://github-readme-stats.vercel.app/api/?username=dawnl3ss\&show_icons=true\&title_color=fff\&icon_color=9fef00\&text_color=ffffff\&bg_color=141d2b)
