@@ -1,7 +1,7 @@
 <!-- Header -->
 ---
 
-### <p align="center"> Up on a cloud, watching the world collapsing... </p>
+### <p align="center"> ☁️ - Up on a cloud, watching the world collapsing... - ☁️ </p>
 
 ---
 
@@ -18,8 +18,8 @@ Wannabe pentester && redteamer.
 
 <!-- Skills -->
 # <h3> Skills : </h3>
-- Web Development : HTML, CSS, Javascript, PHP, SQL, Ruby & more...  
-- Cybersecurity : Web-Application Security, System Security, OSINT.  
+- Web Development : HTML, CSS, Javascript, PHP, SQL, Ruby & more...
+- Cybersecurity : Web-Application Security, System Security, OSINT.
 - Learning : Constantly expanding my knowledge in cybersecurity and web development, even though i can be busy sometimes.
 
 <!-- Contact Me -->
