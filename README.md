@@ -1,20 +1,16 @@
 <!-- Header -->
----
+##
 
-### <p align="center"> ☁️ - up on a cloud, watching the world collapsing - ☁️ </p>
+## <p align="center"> ☁️ - up on a cloud, watching the world collapsing - ☁️ </p>
 
----
-
-18-year-old web-developer | cybersecurity enthusiast | daydreamer.
+#### 18-year-old web-developer | cybersecurity enthusiast | daydreamer. </h2>
 
 <!-- Badge -->
 <a href="https://tryhackme.com/p/dawnl3ss"><img src="https://tryhackme-badges.s3.amazonaws.com/dawnl3ss.png" width="249" height="56"></a>
 <a href="https://app.hackthebox.com/profile/1321357"><img src="https://github.com/dawnl3ss/dawnl3ss/blob/main/hackthebox.png" width="249" height="56"></a>
 
 <!-- Introduction -->
-Just a passionate web-developer and cybersecurity enthusiast following his dreams.  
-EPITA student.  
-Wannabe pentester && redteamer.
+#### Just a passionate web-developer and cybersecurity enthusiast following his dreams. <br> EPITA student. <br> Wannabe pentester && redteamer.
 
 <!-- Skills -->
 # <h3> Skills : </h3>
