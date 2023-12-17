@@ -13,7 +13,7 @@
 #### Just a passionate web-developer and cybersecurity enthusiast following his dreams. <br> EPITA student. <br> Wannabe pentester && redteamer.
 
 <!-- Skills -->
-# <h3> Skills </h3>
+## Skills
 - Web Development :<br>
     <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&logoColor=9fef00&color=343c41">
     <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=9fef00&color=343c41">
@@ -35,12 +35,12 @@
     <img src="https://img.shields.io/badge/-OSINT-000?style=for-the-badge&logo=wikidata&logoColor=9fef00&color=343c41">
 
 <!-- Contact Me -->
-# <h3> Get in Touch </a>
+## Get in Touch
 [![Website](https://img.shields.io/badge/-Webiste-000?style=for-the-badge&logo=webpack&logoColor=9fef00&color=343c41)](https://dawnl3ss.me/)
 [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=9fef00&color=343c41)](https://discordapp.com/users/358529816145821696)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=9fef00&color=343c41)](https://twitter.com/_dawnl3ss)
 [![Mail](https://img.shields.io/badge/-Mail%20Me-000?style=for-the-badge&logo=gmail&logoColor=9fef00&color=343c41)](mailto:dawnl3ss@gmail.com)
 
-# <h3> Github Stats </a>
+## Github Stats
 <!-- GitHub Stats -->
 ![4m4Sec's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dawnl3ss&show_icons=true&count_private=true&theme=dark)
