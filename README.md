@@ -1,6 +1,6 @@
 <!-- Header -->
 #
-# <p align="center"> ☁️ - up on a cloud, watching the world collapsing - ☁️ </p>
+# <p> ☁️ - up on a cloud, watching the world collapsing - ☁️ </p>
 
 ### 18-year-old web-developer | cybersecurity enthusiast | daydreamer.
 
