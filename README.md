@@ -15,23 +15,23 @@
 <!-- Skills -->
 # <h3> Skills </h3>
 - Web Development :<br>
-    <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&logoColor=9fef00&color=343c41">
-    <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=9fef00&color=343c41">
-    <img src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript&logoColor=9fef00&color=343c41">
-    <img src="https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php&logoColor=9fef00&color=343c41">
-    <img src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql&logoColor=9fef00&color=343c41">
-    <img src="https://img.shields.io/badge/-Ruby-000?style=for-the-badge&logo=ruby&logoColor=9fef00&color=343c41">
+  <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&logoColor=9fef00&color=343c41">
+  <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=9fef00&color=343c41">
+  <img src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript&logoColor=9fef00&color=343c41">
+  <img src="https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php&logoColor=9fef00&color=343c41">
+  <img src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql&logoColor=9fef00&color=343c41">
+  <img src="https://img.shields.io/badge/-Ruby-000?style=for-the-badge&logo=ruby&logoColor=9fef00&color=343c41">
 - App Development :<br>
-    <img src="https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c&logoColor=9fef00&color=343c41">
-    <img src="https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus&logoColor=9fef00&color=343c41">
-    <img src="https://img.shields.io/badge/-CS-000?style=for-the-badge&logo=csharp&logoColor=9fef00&color=343c41">
-    <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=9fef00&color=343c41">
-    <img src="https://img.shields.io/badge/-Perl-000?style=for-the-badge&logo=perl&logoColor=9fef00&color=343c41">
+  <img src="https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c&logoColor=9fef00&color=343c41">
+  <img src="https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus&logoColor=9fef00&color=343c41">
+  <img src="https://img.shields.io/badge/-CS-000?style=for-the-badge&logo=csharp&logoColor=9fef00&color=343c41">
+  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=9fef00&color=343c41">
+  <img src="https://img.shields.io/badge/-Perl-000?style=for-the-badge&logo=perl&logoColor=9fef00&color=343c41">
 - Cybersecurity :<br>
-    <img src="https://img.shields.io/badge/-WebApp Security-000?style=for-the-badge&logo=googlechrome&logoColor=9fef00&color=343c41">
-    <img src="https://img.shields.io/badge/-System Security-000?style=for-the-badge&logo=linux&logoColor=9fef00&color=343c41">
-    <img src="https://img.shields.io/badge/-Active Directory-000?style=for-the-badge&logo=windows&logoColor=9fef00&color=343c41">
-    <img src="https://img.shields.io/badge/-OSINT-000?style=for-the-badge&logo=wikidata&logoColor=9fef00&color=343c41">
+  <img src="https://img.shields.io/badge/-WebApp Security-000?style=for-the-badge&logo=googlechrome&logoColor=9fef00&color=343c41">
+  <img src="https://img.shields.io/badge/-System Security-000?style=for-the-badge&logo=linux&logoColor=9fef00&color=343c41">
+  <img src="https://img.shields.io/badge/-Active Directory-000?style=for-the-badge&logo=windows&logoColor=9fef00&color=343c41">
+  <img src="https://img.shields.io/badge/-OSINT-000?style=for-the-badge&logo=wikidata&logoColor=9fef00&color=343c41">
 
 <!-- Contact Me -->
 # <h3> Get in Touch </a>
@@ -42,4 +42,9 @@
 
 # <h3> Github Stats </a>
 <!-- GitHub Stats -->
-![Dawnl3ss's GitHub stats](https://github-readme-stats.vercel.app/api/?username=dawnl3ss\&show_icons=true\&title_color=fff\&icon_color=9fef00\&text_color=ffffff\&bg_color=141d2b)
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=dawnl3ss&show_icons=true&title_color=fff&icon_color=9fef00&text_color=ffffff&bg_color=141d2b" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawnl3ss&layout=compact&show_icons=true&title_color=fff&text_color=ffffff&bg_color=141d2b" />
+</a>
