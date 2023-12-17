@@ -43,8 +43,8 @@
 # <h3> Github Stats </a>
 <!-- GitHub Stats -->
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=dawnl3ss&show_icons=true&title_color=fff&icon_color=9fef00&text_color=ffffff&bg_color=141d2b" />
+  <img height=200 width="400px" height="auto" align="center" src="https://github-readme-stats.vercel.app/api/?username=dawnl3ss&show_icons=true&title_color=fff&icon_color=9fef00&text_color=ffffff&bg_color=141d2b" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawnl3ss&layout=compact&show_icons=true&title_color=fff&text_color=ffffff&bg_color=141d2b" />
+  <img height=200 width="300px" height="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawnl3ss&layout=compact&show_icons=true&title_color=fff&text_color=ffffff&bg_color=141d2b" />
 </a>
