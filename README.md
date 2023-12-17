@@ -14,9 +14,25 @@
 
 <!-- Skills -->
 # <h3> Skills </h3>
-- Web Development : HTML, CSS, Javascript, PHP, SQL, Ruby & more...
-- Cybersecurity : Web-Application Security, System Security, OSINT.
-- Learning : Constantly expanding my knowledge in cybersecurity and web development, even though i can be busy sometimes.
+- Web Development :<br>
+    <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&logoColor=9fef00&color=343c41">
+    <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=9fef00&color=343c41">
+    <img src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript&logoColor=9fef00&color=343c41">
+    <img src="https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php&logoColor=9fef00&color=343c41">
+    <img src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql&logoColor=9fef00&color=343c41">
+    <img src="https://img.shields.io/badge/-Ruby-000?style=for-the-badge&logo=ruby&logoColor=9fef00&color=343c41">
+- App Development :<br>
+    <img src="https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c&logoColor=9fef00&color=343c41">
+    <img src="https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus&logoColor=9fef00&color=343c41">
+    <img src="https://img.shields.io/badge/-CS-000?style=for-the-badge&logo=csharp&logoColor=9fef00&color=343c41">
+    <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=9fef00&color=343c41">
+    <img src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql&logoColor=9fef00&color=343c41">
+    <img src="https://img.shields.io/badge/-Perl-000?style=for-the-badge&logo=perl&logoColor=9fef00&color=343c41">
+- Cybersecurity :<br>
+    <img src="https://img.shields.io/badge/-WebApp Security-000?style=for-the-badge&logo=googlechrome&logoColor=9fef00&color=343c41">
+    <img src="https://img.shields.io/badge/-System Security-000?style=for-the-badge&logo=linux&logoColor=9fef00&color=343c41">
+    <img src="https://img.shields.io/badge/-Active Directory-000?style=for-the-badge&logo=windows&logoColor=9fef00&color=343c41">
+    <img src="https://img.shields.io/badge/-OSINT-000?style=for-the-badge&logo=wikidata&logoColor=9fef00&color=343c41">
 
 <!-- Contact Me -->
 # <h3> Get in Touch </a>
