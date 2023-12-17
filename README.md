@@ -1,6 +1,6 @@
 <!-- Header -->
-<h2> Up on a cloud, watching the world collapsing... </h2>
----
+<h1> Up on a cloud, watching the world collapsing... </h1>
+
 18-year-old web-developer | cybersecurity enthusiast | daydreamer.
 
 <!-- Badge -->
@@ -13,18 +13,17 @@ EPITA student.
 Wannabe pentester && redteamer.
 
 <!-- Skills -->
-<h3> Skills : </h3>
+# <h4> Skills : </h3>
 - Web Development : HTML, CSS, Javascript, PHP, SQL, Ruby & more...  
 - Cybersecurity : Web-Application Security, System Security, OSINT.  
 - Learning : Constantly expanding my knowledge in cybersecurity and web development, even though i can be busy sometimes.
 
 <!-- Contact Me -->
-## Get in Touch
-- 🔰 My website : <a href="https://dawnl3ss.me/"> dawnl3ss.me </a>
-- My discord : <a href="https://discordapp.com/users/358529816145821696">  </a>
-- My twitter : <a href=""><img width="100px" height="auto" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-- ✉ Mail me : <a href="mailto:dawnl3ss@gmail.com"> dawnl3ss@gmail.com </a>
-- 💎 [Twitter](https://twitter.com/4m4Sec)
+# <h4> Get in Touch : </a>
+[![Website](https://img.shields.io/badge/-Webiste-000?style=for-the-badge&logo=webpack&logoColor=17ff3e&color:FFF)](https://dawnl3ss.me/)
+[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=17ff3e&color:FFF)](https://discordapp.com/users/358529816145821696)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=17ff3e&color:FFF)](https://twitter.com/_dawnl3ss)
+[![Mail](https://img.shields.io/badge/-Mail%20Me-000?style=for-the-badge&logo=gmail&logoColor=17ff3e&color:FFF)](mailto:dawnl3ss@gmail.com)
 
 <!-- GitHub Stats -->
 ![4m4Sec's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dawnl3ss&show_icons=true&count_private=true&theme=dark)
