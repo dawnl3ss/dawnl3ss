@@ -26,7 +26,6 @@
     <img src="https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus&logoColor=9fef00&color=343c41">
     <img src="https://img.shields.io/badge/-CS-000?style=for-the-badge&logo=csharp&logoColor=9fef00&color=343c41">
     <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=9fef00&color=343c41">
-    <img src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql&logoColor=9fef00&color=343c41">
     <img src="https://img.shields.io/badge/-Perl-000?style=for-the-badge&logo=perl&logoColor=9fef00&color=343c41">
 - Cybersecurity :<br>
     <img src="https://img.shields.io/badge/-WebApp Security-000?style=for-the-badge&logo=googlechrome&logoColor=9fef00&color=343c41">
