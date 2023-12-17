@@ -20,10 +20,10 @@ Wannabe pentester && redteamer.
 
 <!-- Contact Me -->
 # <h4> Get in Touch : </a>
-[![Website](https://img.shields.io/badge/-Webiste-000?style=for-the-badge&logo=webpack&logoColor=17ff3e&color:FFF)](https://dawnl3ss.me/)
-[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=17ff3e&color:FFF)](https://discordapp.com/users/358529816145821696)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=17ff3e&color:FFF)](https://twitter.com/_dawnl3ss)
-[![Mail](https://img.shields.io/badge/-Mail%20Me-000?style=for-the-badge&logo=gmail&logoColor=17ff3e&color:FFF)](mailto:dawnl3ss@gmail.com)
+[![Website](https://img.shields.io/badge/-Webiste-000?style=for-the-badge&logo=webpack&logoColor=9fef00&color:FFF)](https://dawnl3ss.me/)
+[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=9fef00&color:FFF)](https://discordapp.com/users/358529816145821696)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=9fef00&color:FFF)](https://twitter.com/_dawnl3ss)
+[![Mail](https://img.shields.io/badge/-Mail%20Me-000?style=for-the-badge&logo=gmail&logoColor=9fef00&color:FFF)](mailto:dawnl3ss@gmail.com)
 
 <!-- GitHub Stats -->
 ![4m4Sec's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dawnl3ss&show_icons=true&count_private=true&theme=dark)
