@@ -1,9 +1,8 @@
 <!-- Header -->
-##
+#
+# <p align="center"> ☁️ - up on a cloud, watching the world collapsing - ☁️ </p>
 
-## <p align="center"> ☁️ - up on a cloud, watching the world collapsing - ☁️ </p>
-
-#### 18-year-old web-developer | cybersecurity enthusiast | daydreamer. </h2>
+### 18-year-old web-developer | cybersecurity enthusiast | daydreamer.
 
 <!-- Badge -->
 <a href="https://tryhackme.com/p/dawnl3ss"><img src="https://tryhackme-badges.s3.amazonaws.com/dawnl3ss.png" width="249" height="56"></a>
