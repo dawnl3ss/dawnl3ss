@@ -35,7 +35,7 @@
 
 <!-- Contact Me -->
 # <h3> Get in Touch </a>
-[![Website](https://img.shields.io/badge/-Webiste-000?style=for-the-badge&logo=webpack&logoColor=9fef00&color=343c41)](https://dawnl3ss.me/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9fef00&color=343c41)](https://dawnl3ss.me/)
 [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=9fef00&color=343c41)](https://discordapp.com/users/358529816145821696)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=9fef00&color=343c41)](https://twitter.com/_dawnl3ss)
 [![Mail](https://img.shields.io/badge/-Mail%20Me-000?style=for-the-badge&logo=gmail&logoColor=9fef00&color=343c41)](mailto:dawnl3ss@gmail.com)
