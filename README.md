@@ -34,9 +34,9 @@
                             -           
 ```
 
----
+<br><br>
 
-<p style="font-size: 30px"> 💻 Tech Arsenal </p>
+## 💻 Tech Arsenal
 
 <details>
 <summary><b>🌐 Web Development</b></summary>
