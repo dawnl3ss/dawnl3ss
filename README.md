@@ -1,6 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0D0D3B&height=120&section=header&animation=fadeIn)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D3B&height=140&section=header&animation=fadeIn" height="50" />
 
 </div>
 
