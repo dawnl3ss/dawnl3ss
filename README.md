@@ -4,7 +4,9 @@
 </div>
 <br>
 
-```bash
+<pre>
+<code>
+<big>
   `:oho/-`                                  dawnl3ss@github.io
 `mMMMMMMMMMMMNmmdhy-                        ------------------------
  dMMMMMMMMMMMMMMMMMMs`                      OS: ParrotSec; Kali-Linux; Windows 11 x86_64
@@ -28,8 +30,9 @@
                           :M-
                            d:
                            -+
-                            -           
-```
+                            - 
+</big></code></pre>
+
 <br>
 
 ## 💻 Tech Arsenal
