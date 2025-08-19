@@ -30,15 +30,11 @@
                            -+
                             -           
 ```
-<div align="center">
-  <h1> web-developer | cybersecurity student | daydreamer </h1><br><br>
-</div>
-
-
+<br>
 
 ## 💻 Tech Arsenal
 
-<details>
+<details open>
 <summary><b>🌐 Web Development</b></summary>
 <br>
 
@@ -51,7 +47,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>⚙️ Systems Programming</b></summary>
 <br>
 
@@ -61,7 +57,7 @@
 ![Python](https://img.shields.io/badge/Python-303f9f?style=for-the-badge&logo=python&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-3949ab?style=for-the-badge&logo=perl&logoColor=white)
 
-</details>
+</details open>
 
 <details>
 <summary><b>🔒 Cybersecurity</b></summary>
