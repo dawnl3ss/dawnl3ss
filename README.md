@@ -4,7 +4,7 @@
 </div>
 <br>
 
-```
+```bash
   `:oho/-`                                  dawnl3ss@github.io
 `mMMMMMMMMMMMNmmdhy-                        ------------------------
  dMMMMMMMMMMMMMMMMMMs`                      OS: ParrotSec; Kali-Linux; Windows 11 x86_64
@@ -57,9 +57,9 @@
 ![Python](https://img.shields.io/badge/Python-303f9f?style=for-the-badge&logo=python&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-3949ab?style=for-the-badge&logo=perl&logoColor=white)
 
-</details open>
+</details>
 
-<details>
+<details open>
 <summary><b>🔒 Cybersecurity</b></summary>
 <br>
 
@@ -72,7 +72,7 @@
 
 </details>
 
----
+<br>
 
 ## 🏆 Achievements & Certifications
 
@@ -87,7 +87,7 @@
   
 </div>
 
----
+<br>
 
 ## 📊 GitHub Analytics
 
@@ -100,7 +100,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dawnl3ss&theme=tokyonight&background=0d1117&border=30363d&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff"/>
 </div>
 
----
+<br>
 
 ## 🏆 GitHub Trophies
 
@@ -108,7 +108,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dawnl3ss&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1"/>
 </div>
 
----
+<br>
 
 ## 🌐 Network Connections
 
