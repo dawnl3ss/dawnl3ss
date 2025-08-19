@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0D0D3B&height=180&section=header&text=dawnl3ss&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-☁️ Up on a cloud, watching the world collapsing... ☁️<br><br>
+<h2> web-developer | cybersecurity student | daydreamer </h2><br><br>
 
 </div>
 
