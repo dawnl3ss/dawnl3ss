@@ -1,37 +1,10 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D0D3B&text=web-developer%20|%20cybersecurity%20student%20|%20daydreamer&fontSize=30&fontColor=acaebd&fontAlignY=90">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D0D3B&text=web-developer%20|%20cybersecurity%20student%20|%20daydreamer&fontSize=30&fontColor=acaebd&fontAlignY=87">
 </div>
 <br>
 
-<pre>
-<code>
-<big>
-  `:oho/-`                                  dawnl3ss@github.io
-`mMMMMMMMMMMMNmmdhy-                        ------------------------
- dMMMMMMMMMMMMMMMMMMs`                      OS: ParrotSec; Kali-Linux; Windows 11 x86_64
- +MMsohNMMMMMMMMMMMMMm/                     
- .My   .+dMMMMMMMMMMMMMh.                   Age: 19 years old
-  +       :NMMMMMMMMMMMMNo                  Location: [ Paris 🇫🇷, Los Angeles 🇺🇸 ]
-           `yMMMMMMMMMMMMMm:                Education: EPITA Student
-             /NMMMMMMMMMMMMMy`                  
-              .hMMMMMMMMMMMMMN+             currentFocus: [ Web Development, Cybersecurity, Penetration Testing ]
-                  ``-NMMMMMMMMMd-           position: Co Founder and Senior Full Stack Developer of Hardware Hub
-                     /MMMMMMMMMMMs`         
-                      mMMMMMMMsyNMN/        GPU: c8dc:00:00.0 Microsoft Corporation Basic Render Driver
-                      +MMMMMMMo  :sNh.      Memory: 337MiB / 7882MiB
-                      `NMMMMMMm     -o/
-                       oMMMMMMM.
-                       `NMMMMMM+
-                        +MMd/NMh
-                         mMm -mN`
-                         /MM  `h:
-                          dM`   .
-                          :M-
-                           d:
-                           -+
-                            - 
-</big></code></pre>
+<img src="./carbon.png">
 
 <br>
 
