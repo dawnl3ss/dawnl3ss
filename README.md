@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D0D3B&text=web-developer%20|%20cybersecurity%20student%20|%20daydreamer&fontSize=30&fontColor=acaebd&fontAlignY=87">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D0D3B&text=web-developer%20|%20cybersecurity%20student%20|%20daydreamer&fontSize=30&fontColor=acaebd&fontAlignY=88">
 </div>
 <br>
 
@@ -99,15 +99,11 @@ $ netstat -social
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/358529816145821696)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_dawnl3ss)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dawnl3ss@gmail.com)
-  
+
 </div>
 
----
 
 <div align="center"> 
-
-![Visitors](https://komarev.com/ghpvc/?username=dawnl3ss&color=58a6ff&style=flat-square&label=Visitors)
-![GitHub followers](https://img.shields.io/github/followers/dawnl3ss?color=58a6ff&style=flat-square)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=80&section=footer)
 
