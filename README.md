@@ -1,10 +1,8 @@
 <div align="center">
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D0D3B&text=web-developer%20|%20cybersecurity%20student%20|%20daydreamer&fontSize=30&fontColor=acaebd&fontAlignY=90">
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D0D3B&text=web-developer%20|%20cybersecurity%20student%20|%20daydreamer&fontSize=30&fontColor=acaebd&fontAlignY=90">
 </div>
-
+<br>
 
 ```
   `:oho/-`                                  dawnl3ss@github.io
