@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0D0D3B&height=180&section=header&text=dawnl3ss&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-<h2> web-developer | cybersecurity student | daydreamer </h2><br><br>
+<h1> web-developer | cybersecurity student | daydreamer </h1><br><br>
 
 </div>
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 💻 Tech Arsenal
+<p style="font-size: 30px"> 💻 Tech Arsenal </p>
 
 <details>
 <summary><b>🌐 Web Development</b></summary>
