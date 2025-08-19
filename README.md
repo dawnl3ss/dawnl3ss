@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0D0D3B&height=180&section=header&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0D0D3B&height=120&section=header&animation=fadeIn)
 
 </div>
 
@@ -31,7 +31,10 @@
                            -+
                             -           
 ```
-<h1> web-developer | cybersecurity student | daydreamer </h1><br><br>
+<div align="center">
+  <h1> web-developer | cybersecurity student | daydreamer </h1><br><br>
+</div>
+
 
 
 ## 💻 Tech Arsenal
