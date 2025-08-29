@@ -55,7 +55,8 @@
 <div align="center">
   
   <a href="https://tryhackme.com/p/dawnl3ss">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/dawnl3ss.png" alt="TryHackMe Profile" width="280"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/dawnl3ss.png" alt="Your Image Badge" width="280"/>
+
   </a>
   <a href="https://app.hackthebox.com/profile/1321357">
     <img src="https://github.com/dawnl3ss/dawnl3ss/blob/main/hackthebox.png" alt="HackTheBox Profile" width="280"/>
