@@ -4,7 +4,7 @@
 </div>
 <br>
 
-<img src="./carbon.png">
+<img src="./myself.png">
 
 <br>
 
